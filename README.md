@@ -9,3 +9,4 @@ A line is also generated to divide the top 8 from the bottom 10 as only the top 
 - [ ] Points
 - [ ] Win/Loss
 - [ ] Next Match
+- [ ] Team Colours/Logos
