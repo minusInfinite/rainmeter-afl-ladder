@@ -19,3 +19,7 @@ Download the skin package from <https://github.com/minusInfinite/rainmeter-afl-l
 - [ ] Win/Loss
 - [ ] Next Match
 - [ ] Team Colours/Logos
+
+## Change Log
+
+1.0.1 - Fixed changed URL for the main WebParser as the direct ladder URL no longer generates the needed data when Javascript is not available.
